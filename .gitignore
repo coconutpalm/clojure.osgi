@@ -1,2 +1,13 @@
+<<<<<<< HEAD
 /workspace/
 clojure.osgi.example.loading.aot/classes/
+=======
+bin/
+.settings/
+/target/
+*~
+target
+.idea
+*.iml
+atlassian-ide-plugin.xml
+>>>>>>> b94b3e42886bb349848342d996a50ab885e182c7
